@@ -1,5 +1,5 @@
-from boiler_plate.main import suma
+from boiler_plate.main import sumar
 
-def test_suma(a=1,b=2):
-    result = suma(a,b)
+def test_sumar(a=1,b=2):
+    result = sumar(a,b)
     assert result == 3
