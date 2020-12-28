@@ -1,16 +1,20 @@
 .. boiler_plate documentation master file, created by
-   sphinx-quickstart on Wed Dec 23 14:09:43 2020.
+   sphinx-quickstart on Mon Dec 28 17:31:47 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Bienvenido a la documentacion de boiler_plate's!
-=========================================================================================
-que hace el software
-.. toctree::
-   installation/index.rst
-   :hidden:
-
+Welcome to boiler_plate's documentation!
+========================================
 
 .. toctree::
-   changelog/index.rst
-   :hidden:
+   :maxdepth: 2
+   :caption: Contents:
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
