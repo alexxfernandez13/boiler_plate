@@ -18,3 +18,15 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+.. toctree::
+   installation/index.rst
+   :hidden:
+
+.. toctree::
+   changelog/index.rst
+   :hidden:
+
+.. toctree::
+   documentation/index.rst
+   :hidden:
