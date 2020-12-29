@@ -1,0 +1,3 @@
+
+include bienes_inmuebles/bolier_plate/*
+recursive-include bienes_inmuebles/boiler_plate/ *
