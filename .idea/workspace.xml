@@ -24,19 +24,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bienes_inmuebles" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\boiler_plate\docs" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\boiler_plate\docs" />
       <recent name="C:\boiler_plate\dos" />
       <recent name="C:\boiler_plate" />
       <recent name="C:\boliler_plate" />
       <recent name="C:\boliler_plate\boiler_plate" />
-      <recent name="C:\boliler_plate\docs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\boiler_plate\docs" />
     </key>
   </component>
   <component name="RunManager" selected="Python.main">
@@ -110,10 +110,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2644" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609182211502" />
-    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1609172870318">
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1609231219809">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609172870318" />
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609231219809" />
     <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1609185664734">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
