@@ -1,0 +1,36 @@
+# must do conda install -c alexxfernandez13 boiler_plate
+package:
+  name: boiler_plate
+  version: 1.1
+
+about:
+  home: https://github.com/alexxfernandez13/boiler_plate
+  license: Apache
+  license_file: LICENSE
+  summary: Template already set
+
+source:
+  path: ../
+
+build:
+  script: python -m pip install . --no-deps -vv
+  number: 0
+
+requirements:
+  host:
+    - python
+    - setuptools
+
+  run:
+    # Base dependencies
+    - numpy
+    - matplotlib
+    - scipy
+    - pandas
+    - scikit-learn
+    - pytest
+
+
+test:
+  imports:
+    - boiler_plate
